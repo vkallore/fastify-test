@@ -1,0 +1,16 @@
+{
+  "name": "vk-fastify",
+  "version": "1.0.0",
+  "description": "Trying out fastify.io",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.10.0",
+    "nodemon": "^2.0.1"
+  }
+}
